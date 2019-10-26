@@ -9,7 +9,7 @@
 
     <groupId>com.kodnito</groupId>
     <artifactId>kodnito-microprofile-archetype</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>maven-archetype</packaging>
 
     <name>kodnito-microprofile-archetype</name>
